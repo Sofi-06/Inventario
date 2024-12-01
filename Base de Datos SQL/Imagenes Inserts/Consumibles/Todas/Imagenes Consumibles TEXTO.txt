@@ -1,0 +1,5 @@
+1) ../Imagenes%20Inserts/Consumibles/Enumeradas/1.jpg
+2) ../Imagenes%20Inserts/Consumibles/Enumeradas/2.jpg
+3) ../Imagenes%20Inserts/Consumibles/Enumeradas/3.jpg
+4) ../Imagenes%20Inserts/Consumibles/Enumeradas/4.jpg
+5) ../Imagenes%20Inserts/Consumibles/Enumeradas/5.png
